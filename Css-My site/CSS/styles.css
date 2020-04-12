@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Gotu', sans-serif;
+  color: #40514E;
+  line-height: 2;
+
+}
+
+hr{
+
+  border-style:none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 3px;
+  width: 5%;
+  margin: 50px auto;
+}
+
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Amatic SC', cursive;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Lora', serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+h3
+{
+  font-family: 'Lora', serif;
+  color: #11999E;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+.btn{
+  color: #11999E;
+}
+.footer-link{
+  color: #11999E;
+  margin:20px;
+}
+
+.topcontainer {
+  background-color: #effcef;
+  position: relative;
+  padding-top: 100px;
+}
+.middlecontainer{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding-top: 50px;
+  padding-bottom: 20px;
+
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+.Photography{
+
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.skill-row{
+  width: 50%;
+  margin :100px auto 100px auto;
+  text-align: left;
+}
+.top-cloud{
+  position: absolute;
+  right: 250px;
+  top: 70px;
+}
+.web-d{
+  width: 35%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+.profile-photo{
+  width: 15%;
+
+}
+.description{
+  width: 50%;
+  margin: auto;
+}
+.btn {
+  background-color: #66bfbf;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+  font-family: 'Lora', serif;
+}
+.btn:hover{
+  color:#2c786c;
+}
+.copyright{
+  font-size: 0.75rem;
+  margin:50px auto 10px auto;
+}
